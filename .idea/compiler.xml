@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="hu-iac-ex-how2git" target="1.5" />
+      <module name="hu-iac-ex-how2git" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
