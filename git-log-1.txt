@@ -1,0 +1,76 @@
+commit 39ec8941518b74c4178c27375702b6d077bb43d2 (HEAD -> test, origin/test)
+Author: stefanVanEchtelt <stefan.vanechtelt@student.hu.nl>
+Date:   Sun Mar 8 21:23:21 2020 +0100
+
+    x
+
+commit 1abeb55de08bd2fd23b9d3a651f9bf345aa1dabb
+Author: stefanVanEchtelt <stefan.vanechtelt@student.hu.nl>
+Date:   Fri Feb 14 20:52:00 2020 +0100
+
+    x
+
+commit ab878d06dd2506b9cc387863bac534d12552476f (origin/development, development)
+Author: stefanVanEchtelt <stefan.vanechtelt@student.hu.nl>
+Date:   Fri Feb 14 20:50:28 2020 +0100
+
+    x
+
+commit f89934cdf6774ba444cc4d2fc3b94112e912b336
+Author: stefanVanEchtelt <42676887+stefanVanEchtelt@users.noreply.github.com>
+Date:   Fri Feb 14 20:49:05 2020 +0100
+
+    create build project file
+
+    create build project file
+
+commit a111c15c072726613e8b7cfca408504cbcfef3a8
+Author: stefanVanEchtelt <stefan.vanechtelt@student.hu.nl>
+Date:   Mon Feb 10 11:47:53 2020 +0100
+:...skipping...
+commit 39ec8941518b74c4178c27375702b6d077bb43d2 (HEAD -> test, origin/test)
+Author: stefanVanEchtelt <stefan.vanechtelt@student.hu.nl>
+Date:   Sun Mar 8 21:23:21 2020 +0100
+
+    x
+
+commit 1abeb55de08bd2fd23b9d3a651f9bf345aa1dabb
+Author: stefanVanEchtelt <stefan.vanechtelt@student.hu.nl>
+Date:   Fri Feb 14 20:52:00 2020 +0100
+
+    x
+
+commit ab878d06dd2506b9cc387863bac534d12552476f (origin/development, development)
+Author: stefanVanEchtelt <stefan.vanechtelt@student.hu.nl>
+Date:   Fri Feb 14 20:50:28 2020 +0100
+
+    x
+
+commit f89934cdf6774ba444cc4d2fc3b94112e912b336
+Author: stefanVanEchtelt <42676887+stefanVanEchtelt@users.noreply.github.com>
+Date:   Fri Feb 14 20:49:05 2020 +0100
+
+    create build project file
+
+    create build project file
+
+commit a111c15c072726613e8b7cfca408504cbcfef3a8
+Author: stefanVanEchtelt <stefan.vanechtelt@student.hu.nl>
+Date:   Mon Feb 10 11:47:53 2020 +0100
+
+    add maven suppor
+
+commit c80f0f6d86a832a0b9bf9e59b3494f0a2cd03ec9 (origin/master, origin/HEAD, master)
+Author: Robin Kuijt <58628107+rkuijt@users.noreply.github.com>
+Date:   Sat Jan 18 11:18:53 2020 +0100
+
+    Update Readme
+
+    Clarified info
+
+commit 8b12d4e09eb6662c78f3b6295f2a56f152cbf593
+Author: Robin Kuijt <58628107+rkuijt@users.noreply.github.com>
+Date:   Sat Dec 21 21:02:43 2019 +0100
+
+    Initial commit
+(END)
